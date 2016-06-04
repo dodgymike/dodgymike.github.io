@@ -10,7 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 #url:                https://elasticninja.com
 #url:                http://localhost:4000
-url:                http://dodgymike.github.io
+url:                https://dodgymike.github.io
 
 # Jekyll
 permalink:          /:title/
