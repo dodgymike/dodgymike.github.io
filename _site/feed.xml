@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-05-22T22:50:48+02:00</updated><id>http://localhost:4000/</id><title>Elasticninja</title><subtitle>RF, Infosec and some lame electronics stuff</subtitle><entry><title>Syn</title><link href="http://localhost:4000/begin/" rel="alternate" type="text/html" title="Syn" /><published>2016-05-22T00:00:00+02:00</published><updated>2016-05-22T00:00:00+02:00</updated><id>http://localhost:4000/begin</id><content type="html" xml:base="http://localhost:4000/begin/">&lt;h2 id=&quot;it-begins&quot;&gt;It begins&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-06-04T18:51:56+02:00</updated><id>http://localhost:4000/</id><title>Elasticninja</title><subtitle>RF, Infosec and some lame electronics stuff</subtitle><entry><title>Syn</title><link href="http://localhost:4000/syn/" rel="alternate" type="text/html" title="Syn" /><published>2016-06-04T00:00:00+02:00</published><updated>2016-06-04T00:00:00+02:00</updated><id>http://localhost:4000/syn</id><content type="html" xml:base="http://localhost:4000/syn/">&lt;h2 id=&quot;it-begins&quot;&gt;It begins&lt;/h2&gt;
 &lt;p&gt;I thought I’d start writing up all of the projects I’ve been busy with over the past year or so, and perhaps a little about what I’d like to do over the next couple of years.&lt;/p&gt;
 
 &lt;p&gt;Thanks to &lt;a href=&quot;http://cobus.io/&quot;&gt;Cobus Barnard&lt;/a&gt; and his suggestion of using &lt;a href=&quot;http://cobus.io/ruby/2015/01/26/basic-github-jekyll-blog.html&quot;&gt;Jekyll on Github&lt;/a&gt; as a blogging platform. So far it’s going well ;)&lt;/p&gt;
 
-&lt;h2 id=&quot;some-of-the-things-ive-been-busy-with-and-intend-to-write-about&quot;&gt;Some of the things I’ve been busy with, and intend to write about&lt;/h2&gt;
+&lt;h2 id=&quot;some-of-the-things-ive-been-busy-with&quot;&gt;Some of the things I’ve been busy with&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;Taking cheap LED strips and making them {explode, flash, melt, flicker and light up}&lt;/li&gt;
   &lt;li&gt;Making LED Poi/hula-hoops&lt;/li&gt;
@@ -11,4 +11,4 @@
   &lt;li&gt;Messing with microphones at the various cons I go to&lt;/li&gt;
   &lt;li&gt;Parsing and mangling data-sets from the &lt;a href=&quot;https://scans.io&quot;&gt;Internet-Wide Scan Data Repository&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Making electronics badges for &lt;a href=&quot;http://www.bsidescapetown.co.za/&quot;&gt;BSidesCapeTown&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><category term="infosec" /><category term="rf" /><category term="electronic badness" /><summary>Starting a blog</summary></entry></feed>
+&lt;/ul&gt;</content><summary>Starting a blog</summary></entry></feed>
