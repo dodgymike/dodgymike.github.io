@@ -9,7 +9,8 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 #url:                https://elasticninja.com
-url:                http://localhost:4000
+#url:                http://localhost:4000
+url:                http://dodgymike.github.io
 
 # Jekyll
 permalink:          /:title/
